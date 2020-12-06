@@ -18,12 +18,16 @@ Web Technology Mini Project based on playing games on browser.
 
 ### Menu Page
 
-Add the preview image here
+![menuPage](https://user-images.githubusercontent.com/75524408/101277504-e89e0380-37da-11eb-9c0a-20a832a40135.PNG)
+
 
 ### Player Profiler
 
-Add the preview image here
+![playerProfiler](https://user-images.githubusercontent.com/75524408/101277514-03707800-37db-11eb-8d60-aa3543ee0760.PNG)
 
 ### Game Page 
 
-Add the preview image here
+![GamePage](https://user-images.githubusercontent.com/75524408/101277524-16834800-37db-11eb-8eef-9cedd1412157.PNG)
+![gamepage1](https://user-images.githubusercontent.com/75524408/101277528-197e3880-37db-11eb-91f9-4585d59e52ee.PNG)
+![gamePage2](https://user-images.githubusercontent.com/75524408/101277530-1be09280-37db-11eb-953d-4d178bd0ed30.PNG)
+
