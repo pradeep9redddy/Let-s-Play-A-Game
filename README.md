@@ -31,6 +31,7 @@ Web Technology Mini Project based on playing games on browser.
 Here we need a sever to host the games given by unity game engine.
 So here one can use an extention called Web Server for Chrome as a local web server - 
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
+
 Install this extention and click Lanch App.
 Direct the folder where the unity games were there by choosing the choose folder - They shloud be in the same main folder(Let's Play A Games) as a subfolder(/Web Games). 
 
