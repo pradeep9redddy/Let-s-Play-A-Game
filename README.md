@@ -36,7 +36,10 @@ Install this extention and click Lanch App.
 Direct the folder where the unity games were there by choosing the choose folder - They shloud be in the same main folder(Let's Play A Games) as a subfolder(/Web Games). 
 
 Like the below snip
-![image](https://user-images.githubusercontent.com/51847492/117460467-2c538f80-af6a-11eb-8bb4-76f50f3d0051.png)
+
+
+![Screenshot 2021-05-07 193059](https://user-images.githubusercontent.com/51847492/117461119-d92e0c80-af6a-11eb-82fb-bea7b500af18.jpg)
+
 
 ![GamePage](https://user-images.githubusercontent.com/75524408/101277524-16834800-37db-11eb-8eef-9cedd1412157.PNG)
 ![gamepage1](https://user-images.githubusercontent.com/75524408/101277528-197e3880-37db-11eb-91f9-4585d59e52ee.PNG)
