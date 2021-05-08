@@ -1,28 +1,30 @@
 # Let-s-Play-A-Game
 Web Technology Mini Project based on playing games on browser.
 
-Prerequisites
-Install Node JS
+# Prerequisites
+# Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
 
-Install create-react-app
+# Install create-react-app
+
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
 npm install -g create-react-app
-Live Application URL
-The Application is deployed in https://aditya-sridhar.github.io/simple-reactjs-app
 
-Click on the link to see the application
+#
+# Cloning and Running the Application in local
 
-Cloning and Running the Application in local
 Clone the project into local
-
+Use only Let's Play A Game.rar file for the whole project.
+#
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
 npm install
+#
 In order to run the application Type the following command
 
 npm start
+
 The Application Runs on localhost:3000
 
 
@@ -60,7 +62,7 @@ https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoe
 Install this extention and click Lanch App.
 Direct the folder where the unity games were there by choosing the choose folder - They shloud be in the same main folder(Let's Play A Games) as a subfolder(/Web Games). 
 
-Like the below snip
+# Like the below snip
 
 
 ![Screenshot 2021-05-07 193059](https://user-images.githubusercontent.com/51847492/117461119-d92e0c80-af6a-11eb-82fb-bea7b500af18.jpg)
@@ -72,7 +74,8 @@ Like the below snip
 #
 
 
-Resources
+# Resources
+#
 
 create-react-app : The following link has all the commands that can be used with create-react-app https://github.com/facebook/create-react-app
 
