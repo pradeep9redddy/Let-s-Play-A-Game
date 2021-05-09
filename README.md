@@ -9,7 +9,7 @@ Refer to https://nodejs.org/en/ to install nodejs
 
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
-npm install -g create-react-app
+`npm install -g create-react-app`
 
 #
 # Cloning and Running the Application in local
@@ -19,11 +19,21 @@ Use only Let's Play A Game.rar file for the whole project.
 ##
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-npm install
-##
-In order to run the application Type the following command
+`npm install`
 
-npm start
+###Before running the React app(website) first we have to connect to MongoDB for the players Login and History of his game play.
+####So, now install MongoDB or can use an online version
+####Add PlayerDB in local on MongoDB compass and on top left click connect to MongoDB.
+
+###Go to Let-s-Play-A-Game\BackEnd\backend\Back_end\Front_end Login and type below command
+`npm run start`
+#####This connects MongoDB to our React App.
+
+##
+###In order to run the application Type the following command on another terminal
+
+###Go inside the Lets Play A Game floder and type below command
+`npm start`
 
 The Application Runs on localhost:3000
 
