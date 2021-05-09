@@ -19,7 +19,7 @@ Install create-react-app npm package globally. This will help to easily run the 
 Clone the project into local
 Use only Let's Play A Game.rar file for the whole project.
 ##
-Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages, this is to ensure all are there or else you can skip this
 
 `npm install`
 
