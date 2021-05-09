@@ -23,7 +23,7 @@ Install all the npm packages. Go into the project folder and type the following 
 
 ### Before running the React app(website) first we have to connect to MongoDB for the players Login and History of his game play.
 #### So, now install MongoDB or can use an online version
-#### Add PlayerDB in local on MongoDB compass and on top left click connect to MongoDB.
+#### Add "PlayerDB" floder in local on MongoDB compass and on top left click connect to MongoDB.
 
 ### Go to Let-s-Play-A-Game\BackEnd\backend\Back_end\Front_end Login and type below command
 `npm run start`
