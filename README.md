@@ -14,7 +14,8 @@ Install create-react-app npm package globally. This will help to easily run the 
 #
 # Cloning and Running the Application in local
 
-## If you don't want to start the Website from start you can download the `"Let's Play A Game.rar"` file which include all node modules. so, you can directly run and test the product.
+## If you don't want to start the Website from start 
+## you can download the `"Let's Play A Game.rar"` file which include all node modules. so, you can directly run and test the product.
 
 Clone the project into local
 Use only Let's Play A Game.rar file for the whole project.
